@@ -3,7 +3,7 @@ Fritz!Box Blacklist
 
 A list of domains to be blocked in my Fritz!Box.
 
-This project is meant to help advertisement companies to see the benefits of HTTPS. :smiley:
+This project is meant to help some companies to see the benefits of HTTPS. :smiley:
 
 Instructions
 ------------
@@ -18,3 +18,5 @@ Legal stuff
 Author: [Frank Boës](http://3960.org)
 
 Copyright & license: See LICENSE.txt
+
+These instructions are NOT affiliated with, endorsed, or sponsored by AVM.
