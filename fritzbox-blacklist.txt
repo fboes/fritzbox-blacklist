@@ -8,6 +8,7 @@ conduit.com
 doubleclick.com
 doubleclick.net
 googleadservices.com
+googlesyndication.com
 intellitxt.com
 ivwbox.de
 nuggad.net
@@ -17,4 +18,4 @@ sitemeter.com
 statcounter.com
 tradedoubler.com
 trafficholder.com
-www.google-analytics.com
+google-analytics.com
