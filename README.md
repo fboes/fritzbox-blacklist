@@ -29,6 +29,11 @@ E.g.: To block `http://ads.example.com/some_script.js` enter `ads.example.com` o
 
 On the structure of URLs for this blacklist consult [AVM's documentation for blacklists](http://service.avm.de/help/de/FRITZ-Box-Fon-WLAN-7490/014/hilfe_internet_filter_blacklist). Keep in mind to keep this list as simple as possible, to keep it useful for other routers as well.
 
+Contributing
+------------
+
+I am happy to merge your contributions to this file. Please make sure that the blacklist is ordered alphabetically.
+
 Legal stuff
 -----------
 
