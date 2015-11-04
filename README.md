@@ -1,7 +1,7 @@
 :do_not_litter: Fritz!Box Blacklist
 ===================================
 
-A list of domains to be blocked in my Fritz!Box.
+A list of domains to be blocked in my Fritz!Box (and maybe yours).
 
 This project is meant to help some companies to see the benefits of HTTPS. :smiley:
 
@@ -10,7 +10,7 @@ Instructions
 
 Short instructions:
 
-1. See [AVM's instructions on how to setup a blacklist in your Fritz!Box](http://avm.de/nc/service/fritzbox/fritzbox-7390/wissensdatenbank/publication/show/8_Internetnutzung-mit-Kindersicherung-einschraenken/)
+1. See [AVM's instructions on how to setup a blacklist in your Fritz!Box](http://en.avm.de/service/fritzbox/fritzbox-7490/knowledge-base/publication/show/8_Restricting-Internet-access-using-parental-controls/)
 2. Copy contents of [fritzbox-blacklist.txt](https://raw.githubusercontent.com/fboes/fritzbox-blacklist/master/fritzbox-blacklist.txt) to your Fritz!Box' blacklist
 3. Be sure to check if HTTPS traffic is still allowed
 
