@@ -32,7 +32,7 @@ On the structure of URLs for this blacklist consult [AVM's documentation for bla
 Contributing
 ------------
 
-I am happy to merge your contributions to this file. Please make sure that the blacklist is ordered alphabetically.
+I am happy to merge your contributions to this file. Please make sure that the blacklist is ordered alphabetically, and you have removed any unneccessary whitespaces.
 
 Legal stuff
 -----------
