@@ -10,6 +10,7 @@ adspirit.de
 adtech.de
 adzmob.com
 buysellads.com
+cdn.taboola.com
 conduit.com
 doubleclick.com
 doubleclick.net
