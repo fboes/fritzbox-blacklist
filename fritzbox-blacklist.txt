@@ -4,6 +4,7 @@ adform.net
 admob.com
 adpacks.com
 ads.yahoo.com
+adserver.yahoo.com
 ads1.msads.net
 ads1.msn.com
 adspirit.de
@@ -22,6 +23,7 @@ ivwbox.de
 nuggad.net
 overture.com
 quality-channel.de
+revivedadtag.com
 sitemeter.com
 statcounter.com
 tradedoubler.com
