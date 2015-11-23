@@ -37,7 +37,7 @@ I am happy to merge your contributions to this file. Please make sure that the b
 Legal stuff
 -----------
 
-Author: [Frank Boës](http://3960.org)
+Author: [Frank Boës](http://3960.org) and others
 
 Copyright & license: See LICENSE.txt
 
