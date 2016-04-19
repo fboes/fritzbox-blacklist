@@ -1,0 +1,2 @@
+connect.decknetwork.net
+googleadservices.com

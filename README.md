@@ -12,7 +12,8 @@ Short instructions:
 
 1. See [AVM's instructions on how to setup a blacklist in your Fritz!Box](http://en.avm.de/service/fritzbox/fritzbox-7490/knowledge-base/publication/show/8_Restricting-Internet-access-using-parental-controls/)
 2. Copy contents of [fritzbox-blacklist.txt](https://raw.githubusercontent.com/fboes/fritzbox-blacklist/master/fritzbox-blacklist.txt) to your Fritz!Box' blacklist
-3. Be sure to check if HTTPS traffic is still allowed
+2. Copy contents of [fritzbox-blacklist-extra.txt](https://raw.githubusercontent.com/fboes/fritzbox-blacklist/master/fritzbox-blacklist-extra.txt) to your Fritz!Box' blacklist for the removal of possibly nice services
+4. Be sure to check if HTTPS traffic is still allowed
 
 This will work with a standard firmware.
 
@@ -21,7 +22,7 @@ There is also an [extended instruction on how to set up your Fritz!Box as an AdB
 Development
 -----------
 
-There is a maximum of 500 entries for this blacklist. Choose each entry wisely.
+There is a maximum of 500 entries for the Fritz Box' blacklist. Choose each entry wisely.
 
 Put each domain in a single line. Do not enter comments or anything else.
 
