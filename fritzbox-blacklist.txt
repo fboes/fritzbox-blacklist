@@ -13,6 +13,7 @@ adzmob.com
 buysellads.com
 cdn.taboola.com
 conduit.com
+connect.decknetwork.net
 doubleclick.com
 doubleclick.net
 google-analytics.com
