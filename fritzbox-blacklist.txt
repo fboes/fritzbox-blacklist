@@ -16,7 +16,6 @@ conduit.com
 doubleclick.com
 doubleclick.net
 google-analytics.com
-googleadservices.com
 googlesyndication.com
 intellitxt.com
 ivwbox.de
