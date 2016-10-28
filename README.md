@@ -24,7 +24,7 @@ Know issues
 
 | Domain      | Issue |
 |-------------|-------|
-| conduit.com | This entry may prevents some Netflix cleints like Wii U from using Netflix (see [issue #6](https://github.com/fboes/fritzbox-blacklist/issues/6) for details) |
+| conduit.com | This entry may prevent some Netflix clients like Wii U from using Netflix (see [issue #6](https://github.com/fboes/fritzbox-blacklist/issues/6) for details) |
 
 Development
 -----------
