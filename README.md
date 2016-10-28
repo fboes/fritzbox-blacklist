@@ -22,9 +22,10 @@ There is also an [extended instruction on how to set up your Fritz!Box as an AdB
 Know issues
 -----------
 
-| Domain      | Issue |
-|-------------|-------|
-| conduit.com | This entry may prevent some Netflix clients like Wii U from using Netflix (see [issue #6](https://github.com/fboes/fritzbox-blacklist/issues/6) for details) |
+| Domain               | Issue |
+|----------------------|-------|
+| conduit.com          | This entry may prevent some Netflix clients like Wii U from using Netflix (see [issue #6](https://github.com/fboes/fritzbox-blacklist/issues/6) for details) |
+| googleadservices.com | This entry makes the paid links in Google search results unclickable |
 
 Development
 -----------
