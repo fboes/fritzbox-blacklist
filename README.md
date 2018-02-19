@@ -17,7 +17,7 @@ Short instructions:
 
 This will work with a standard firmware.
 
-There is also an [extended instruction on how to set up your Fritz!Box as an AdBlocker](http://blog.3960.org/post/123040268295/fritz-box-als-adblocker) (German).
+There is also an [extended instruction on how to set up your Fritz!Box as an AdBlocker](https://journal.3960.org/posts/2015-07-02-fritz-box-als-adblocker/) (German).
 
 Know issues
 -----------
