@@ -28,6 +28,7 @@ intellitxt.com
 ivwbox.de
 lgad.cjpowercast.com
 lgsmartad.com
+mov
 ngfts.lge.com
 nuggad.net
 outbrain.com
@@ -44,3 +45,4 @@ statcounter.com
 tradedoubler.com
 trafficholder.com
 teads.tv
+zip
